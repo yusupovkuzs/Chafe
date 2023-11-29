@@ -1,0 +1,19 @@
+.gallery {
+  padding: 100px 0;
+}
+
+.gallery__box {
+  display: grid;
+  grid-template: repeat(2, 1fr) / repeat(3, 1fr);
+  gap: 40px;
+}
+
+.gallery__item {
+  width: 100%;
+  height: auto;
+}
+
+.gallery__item img {
+  width: 100%;
+  border-radius: 20px;
+}

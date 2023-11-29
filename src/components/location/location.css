@@ -1,0 +1,24 @@
+.location {
+	background: var(--light-bg);
+	padding: 100px 0;
+}
+
+.location__container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.location__title {
+	font-size: 32px;
+	line-height: 40px;
+}
+
+.location__desc {
+	font-size: 18px;
+	line-height: 28px;
+}
+
+.location__map iframe {
+	border-radius: 20px;
+}

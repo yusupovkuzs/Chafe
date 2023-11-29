@@ -1,0 +1,28 @@
+.order__title {
+  font-size: 48px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.order__box {
+  display: flex;
+  gap: 30px;
+}
+
+.order__item {
+  width: 100%;
+}
+
+.order__img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.order__desc {
+  font-size: 18px;
+  padding: 24px 0;
+  text-align: center;
+  width: 100%;
+  line-height: 28px;
+}

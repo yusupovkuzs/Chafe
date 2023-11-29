@@ -1,0 +1,26 @@
+body {
+	font-family: 'Inter', sans-serif;
+}
+
+:root {
+  --hader-color: #553d1d;
+  --light-bg: #ffe7b4;
+  --footer-color: #845920;
+  --accent-color: #fbbd3b;
+  --black-link: #111827;
+}
+
+[class*="__container"] {
+  max-width: 1536px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Merriweather", sans-serif;
+}

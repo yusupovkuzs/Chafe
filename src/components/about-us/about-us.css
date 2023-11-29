@@ -1,0 +1,32 @@
+.about-us {
+  padding: 128px 0;
+}
+
+.about-us__container {
+  display: flex;
+  gap: 10%;
+  align-items: center;
+}
+
+.about-us__text {
+  max-width: 45%;
+}
+
+.about-us__title {
+  font-size: 48px;
+  margin-bottom: 24px;
+}
+
+.about-us__desc {
+  font-size: 18px;
+  margin-bottom: 24px;
+}
+
+.about-us__img {
+  max-width: 45%;
+}
+
+.about-us__img img {
+  max-width: 100%;
+  border-radius: 20px;
+}

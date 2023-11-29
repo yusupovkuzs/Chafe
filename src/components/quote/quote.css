@@ -1,0 +1,15 @@
+.qoute__container {
+	max-width: 1024px;
+	padding: 128px 0;
+}
+
+.qoute__text {
+	font-size: 32px;
+	text-align: center;
+	margin-bottom: 24px;
+}
+
+.qoute__author {
+	font-size: 24px;
+	text-align: center;
+}

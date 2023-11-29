@@ -1,0 +1,23 @@
+.header {
+  background: var(--hader-color);
+  padding: 24px 0;
+  color: #fff;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+.header__list {
+  display: flex;
+  gap: 20px;
+}
+
+.header__link a:hover {
+  color: #ffe7b4;
+}
