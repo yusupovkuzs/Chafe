@@ -18,6 +18,6 @@
   gap: 20px;
 }
 
-.header__link a:hover {
+.header__link-item {
   color: #ffe7b4;
 }

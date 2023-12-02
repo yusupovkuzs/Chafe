@@ -1,0 +1,16 @@
+.about__text {
+	padding: 128px 0;
+	background: #ffe7b4;
+}
+
+.text__title {
+	font-size: 48px;
+	margin-bottom: 24px;
+}
+
+.text__desc {
+	font-size: 18px;
+	line-height: 28px;
+	margin-bottom: 24px;
+	max-width: 1024px;
+}
